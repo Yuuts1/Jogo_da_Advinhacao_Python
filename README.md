@@ -1,3 +1,3 @@
 ### Jogo da Adivinhação
 
-# utizando alguns conhecimentos basicos para criar o jogo!
+# utilizando alguns conhecimentos basicos para criar o jogo!
